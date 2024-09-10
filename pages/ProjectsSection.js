@@ -89,14 +89,6 @@ const ServicesSection = () => {
               <div className="card-body">
                 <h3 className="card-title text-white">Project V</h3>
                 <p className="card-text text-white">is a professional website for a health practitioner focusing on holistic wellness and personal development. It features resources for maintaining mental and physical health.
-
-
-
-
-
-
-
-
 </p>
               </div>
             </div>

@@ -43,7 +43,7 @@ const AboutSection = () => {
             {/* Carousel item 3 */}
             <div className="carousel-item">
               <img
-                src="/images/c3.jpg"
+                src="/images/c3.JPG"
                 className="d-block w-100"
                 alt="Certification 3"
                 style={{ height: '400px', objectFit: 'cover' }}
